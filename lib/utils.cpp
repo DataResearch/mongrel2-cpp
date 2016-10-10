@@ -1,9 +1,9 @@
 #include <string>
 #include <vector>
 #include <sstream>
-#include <json/json.h>
 #include "m2pp.hpp"
 #include "m2pp_internal.hpp"
+#include <json-c/json.h>
 
 namespace m2pp {
 

@@ -1,5 +1,4 @@
-#ifndef M2_HPP
-#define M2_HPP
+#pragma once
 
 #include <string>
 #include <vector>
@@ -44,5 +43,3 @@ class connection {
 
 }
 
-
-#endif

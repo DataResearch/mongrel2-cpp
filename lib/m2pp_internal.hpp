@@ -1,6 +1,11 @@
 #ifndef M2_INT_HPP
 #define M2_INT_HPP
 
+#include <string>
+#include <sstream>
+#include <vector>
+#include "m2pp.hpp"
+
 namespace m2pp {
 
 	namespace utils {
